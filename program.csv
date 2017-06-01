@@ -1,0 +1,37 @@
+Time,Author,Title,Stream,Session,AbstractID
+1,"Joseph Rickert, RStudio",rs role in data science,1,1,18
+2,"Gabriela de Queiroz, SelfScore",full stack data science with r production data science and  engineering with open source tools,1,1,16
+3,"Mark Sellors, Mango Solutions",an r operating model for the enterprise,1,1,NA
+4,"Szilard Pafka, Epoch",machine learning with r for business applications,1,3,30
+5,"David Bishop, Hitachi Solutions America",using r in the clean energy industry to enable autonomous workloads,1,3,7
+6,"Dr Aleksander Dietrichson, Blackboard Inc.",going enterprise with xray learning analytics,1,3,2
+7,"Dr Chris Boosalis, Sacramento State University",using shiny and r to build powerful dashboards to assess learning outcomes in higher education,1,5,5
+8,"Gergely Daroczi, CARD.com",stream processing with r in aws,1,5,NA
+9,"Dr Mohammed Zakaria, Catapult Sports",using r to apply machine learning techniques in sports,1,5,27
+1,"Kelly O'Briant, B23 LLC",the missing manual for running r on amazon cloud,2,2,22
+2,"Aaron Hamming, ProAssurance",using data to identify risky prescribing habits in physicians,2,2,1
+3,"Filip Stachura, Appsilon Data Science",how we built a shiny app for 700 users,2,2,14
+4,"Dennis Salguero, VegasCrimeStats",crimes and data predictive policing with municipal data collection and r,2,4,NA
+5,"Sharvari Bhagwat, Amgen",r as a pharmacokinetic simulation tool,2,4,NA
+6,"Hossein Falaki, Databricks",processing large data in r using apache spark,2,4,17
+7,"Daniela Saldana, Amgen",geographic enrollment optimization  optimizing time and cost of clinical trials using r,2,6,6
+8,"Elena Schneider, InsightRx",treating patients with r,2,6,12
+9,"David Smith and Bharath Sankaranarayan, Microsoft",predicting patient lengthofstay in hospitals,2,6,9
+10,"David Croushore, Pandora Media Inc",staying on top of the beat how pandora uses r and shiny to monitor its business,1,7,8
+11,"Jeremy Morris, Domo Inc",api interfaces with r,1,7,NA
+12,"Emily Bailey, Uber",moving analysts from excel to r  quickly painlessly and at scale,1,7,13
+13,"Richard Pugh, Mango Solutions",athena a shiny app success story,1,9,NA
+14,"Matt Dancho, Business Science",new tools for performing financial analysis within the tidy ecosystem,1,9,25
+15,"Ali Marami, RBrain",implementing dual time dynamic models in r for credit risk management,1,9,3
+16,"JS Tan, Microsoft",doazureparallel  using azure as your parallel backend for high performance work,1,11,21
+17,"Professor Thomas Vaughan, Fred Hutchinson Cancer Research Center",interactive visualization of cancer risk in primary care precision prevention,1,11,31
+18,"Eduardo Ariño de la Rubia, Domino Data Lab",powering apis with r and building shiny applications to test them,1,11,11
+10,"Kyle Allaire and Shad Thomas (co-presenter), Glass Box Research",visual representations of market segmentation using shiny,1,8,29
+11,"Beth Ashlee and Nicola Crane, Mango Solutions",shiny as a replacement for sas af applications,1,8,NA
+12,"Mike Gahan, Metabiota",largescale reproducible simulation pipelines in r using docker,1,8,26
+13,"Madhura Raju, Microsoft",understanding server traffic and identifying potential denial of service attacks,1,10,24
+14,"Ari Lamstein, Lamstein Consulting",beyond popularity monetizing r packages,1,10,4
+15,"Aimée Gott, Mango Solutions",oil through the pipeline,1,10,NA
+16,"Luke Fostvedt, Pfizer",the pharmaceutical industrys polyamorous relationship with r,1,12,23
+17,"Tyler Cole, Amgen",pioneering r for clinical development at amgen,1,12,32
+18,"Dr Gabriel Becker, Genentech",enhancing reproducibility comparability and discoverability of results in multianalyst settings,1,12,15
